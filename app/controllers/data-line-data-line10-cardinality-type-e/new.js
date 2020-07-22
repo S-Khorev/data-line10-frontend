@@ -1,0 +1,4 @@
+import DataLineDataLine10cardinality_typeEController from '../data-line-data-line10-cardinality-type-e';
+
+var DataLineDataLine10cardinality_typeENewController = DataLineDataLine10cardinality_typeEController;
+export default DataLineDataLine10cardinality_typeENewController;

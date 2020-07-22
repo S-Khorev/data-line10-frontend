@@ -1,0 +1,4 @@
+import DataLineDataLine10user_service_orderEController from '../data-line-data-line10-user-service-order-e';
+
+var DataLineDataLine10user_service_orderENewController = DataLineDataLine10user_service_orderEController;
+export default DataLineDataLine10user_service_orderENewController;
